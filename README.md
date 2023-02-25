@@ -1,4 +1,4 @@
-Potentiometers & Photoresistors circuits
+Potentiometers & Photoresistors Circuits
 
 ![Potentiometers & Photoresistors](pp.jpeg)
 

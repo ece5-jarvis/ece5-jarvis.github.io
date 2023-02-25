@@ -3,8 +3,6 @@ ECE5 JARVIS
 
 Potentiometers & Photoresistors
 
-![photoresistors/potentiometers](https://github.com/[ece5-jarvis]/[ece5-jarvis]/blob/main/pp.jpeg?raw=true)
-
-![Screenshot](pp.jpeg)
+![Potentiometers & Photoresistors](pp.jpeg)
 
 Chassis CAD

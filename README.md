@@ -6,7 +6,7 @@ Assembled Robot
 
 ![assembled1](assembled1.jpg)
 
-![assembled2](assembled2.jpeg)
+![assembled2](assembled2.jpg)
 
-![assembled3](assembled3.jpeg)
+![assembled3](assembled3.jpg)
 

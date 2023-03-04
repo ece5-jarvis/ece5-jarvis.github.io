@@ -4,7 +4,7 @@ Potentiometers & Photoresistors Circuits
 
 Assembled Robot
 
-![assembled1](assembled1.jpeg)
+![assembled1](assembled1.jpg)
 
 ![assembled2](assembled2.jpeg)
 

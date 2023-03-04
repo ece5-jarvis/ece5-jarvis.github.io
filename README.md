@@ -2,14 +2,11 @@ Potentiometers & Photoresistors Circuits
 
 ![Potentiometers & Photoresistors](pp.jpeg)
 
-Chassis CAD
+Assembled Robot
 
-![motor1](motor1.jpg)
+![assembled1](assembled1.jpeg)
 
-![motor2](motor2.jpg)
+![assembled2](assembled2.jpeg)
 
-![backofchassis](backofchassis.jpg)
+![assembled3](assembled3.jpeg)
 
-![lightshield](lightshield.jpg)
-
-![fullchassis](fullchassis.jpg)

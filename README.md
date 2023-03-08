@@ -14,5 +14,5 @@ Robot Following Line
 
 ![robotline1](robotline-1.mp4)
 
-![robotline-2](robotline-2.webm.mov)
+<video src='robotline-1.mov' width=180/>
 

@@ -10,3 +10,9 @@ Assembled Robot
 
 ![assembled3](assembled-3.jpg)
 
+Robot Following Line
+
+![robotline-1](robotline-1.mov)
+
+![robotline-2](robotline-2.mov)
+

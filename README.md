@@ -14,5 +14,5 @@ Robot Following Line
 
 ![robotline1](robotline-1.mp4)
 
-<video src='robotline-1.mp4' width=180/>
+![robotline1](https://github.com/ece5-jarvis.github.io/raw/main/robotline-1.mov)
 

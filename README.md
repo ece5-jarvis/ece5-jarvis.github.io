@@ -12,7 +12,5 @@ Assembled Robot
 
 Robot Following Line
 
-![robotline1](robotline-1.mp4)
-
 ![robotline](rl.gif)
 

@@ -14,12 +14,15 @@
 
 ![robotline](rl.gif)
 
-### <ins>Competition Day!</ins>
+# <ins>Competition Day!</ins>
 
 
 # Frequency Sweep
 
 ![fs](https://user-images.githubusercontent.com/126359456/226070180-9dd40859-a438-4ed5-b01d-64993f7dc49c.mp4)
+
+<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 https://user-images.githubusercontent.com/126359456/226070675-2a877769-b52d-4101-af54-5631585131a9.mp4
 

@@ -30,4 +30,4 @@ Drag Race
 
 Team Photo
 
-![teamphoto](IMG_2538.jpg)
+![teamphoto](IMG_2538.jpeg)

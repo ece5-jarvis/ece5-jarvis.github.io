@@ -26,11 +26,18 @@ Circuit Track
 
 Drag Race
 
-![dragrace](dragrace2.gif)
+https://user-images.githubusercontent.com/126359456/226069871-134a0518-dd51-4152-b834-98166fad6d2d.mov
 
 Team Photo
 
 ![teamphoto](IMG_2538.jpeg)
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+
+
+
+
+
+
+
+
 

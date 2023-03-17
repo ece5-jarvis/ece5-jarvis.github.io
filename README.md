@@ -19,7 +19,7 @@
 
 # Frequency Sweep
 
-https://user-images.githubusercontent.com/126359456/226070180-9dd40859-a438-4ed5-b01d-64993f7dc49c.mp4
+![fs](https://user-images.githubusercontent.com/126359456/226070180-9dd40859-a438-4ed5-b01d-64993f7dc49c.mp4)
 
 https://user-images.githubusercontent.com/126359456/226070675-2a877769-b52d-4101-af54-5631585131a9.mp4
 

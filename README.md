@@ -1,8 +1,8 @@
-Potentiometers & Photoresistors Circuits
+# Potentiometers & Photoresistors Circuits
 
 ![Potentiometers & Photoresistors](pp.jpeg)
 
-Assembled Robot
+# Assembled Robot
 
 ![assembled1](assembled-1.jpg)
 
@@ -10,14 +10,14 @@ Assembled Robot
 
 ![assembled3](assembled-3.jpg)
 
-Robot Following Line
+# Robot Following Line
 
 ![robotline](rl.gif)
 
 ### <ins>Competition Day!</ins>
 
 
-<font size=”10”> Frequency Sweep </font>
+# Frequency Sweep
 
 https://user-images.githubusercontent.com/126359456/226070180-9dd40859-a438-4ed5-b01d-64993f7dc49c.mp4
 

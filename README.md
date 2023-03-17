@@ -14,13 +14,17 @@ Robot Following Line
 
 ![robotline](rl.gif)
 
-Competition Day!
+## <ins>Competition Day!</ins>
 
 Frequency Sweep
 
-![frequencysweep](frequencysweep.mov)
+https://user-images.githubusercontent.com/126359456/226070180-9dd40859-a438-4ed5-b01d-64993f7dc49c.mp4
+
+https://user-images.githubusercontent.com/126359456/226070292-5f128031-48a0-4527-b64c-9b401cab820a.mp4
 
 Circuit Track
+
+https://user-images.githubusercontent.com/126359456/226070400-01f0ed60-f700-49e4-8630-7d07df9316c7.mp4
 
 ![looptimer](looptime.jpg)
 

@@ -1,4 +1,4 @@
-# Team Jarvis
+# Team Jarviss
 
 # Potentiometers & Photoresistors Circuits
 

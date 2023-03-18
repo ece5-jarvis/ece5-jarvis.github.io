@@ -18,6 +18,11 @@ Potentiometers & Photoresistors Circuits
 
 # <ins>Competition Day!</ins>
 
+# Annotated Final Picture
+
+# Explanation of PID control
+
+Our kP multiplier was 1.25, our kI was left at default, and our kD was 10. After testing, we determined that these values worked well and that a lot of derivative gain was needed to dampen overshoot. It was mostly trial and error. For the frequency sweep, kP was increased and speed was decreased so the robot could make tight turns. The loop had similar tuning, except the speed was a little higher. For the drag race, the speed was maximum, kP was decreased, and kD was increased to avoid oscillation. 
 
 # Frequency Sweep
 

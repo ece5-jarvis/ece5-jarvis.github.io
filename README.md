@@ -1,7 +1,6 @@
-# ECE LAB 4
+## ECE LAB 4
 
-
-# Potentiometers & Photoresistors Circuits
+Potentiometers & Photoresistors Circuits
 
 ![Potentiometers & Photoresistors](pp.jpeg)
 
@@ -47,13 +46,4 @@
 # Team Photo
 
 ![teamphoto](IMG_2538.jpeg)
-
-
-
-
-
-
-
-
-
 

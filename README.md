@@ -20,7 +20,7 @@
 
 # Annotated Final Picture
 
-final picture
+![finalpic](finalrobot.png)
 
 # Explanation of PID control
 
@@ -28,7 +28,7 @@ Our kP multiplier was 1.25, our kI was left at default, and our kD was 10. After
 
 # Poster
 
-poster picture
+![poster](poster.png)
 
 # Frequency Sweep
 

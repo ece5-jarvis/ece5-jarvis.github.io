@@ -1,3 +1,6 @@
+# ECE LAB 4
+
+
 # Potentiometers & Photoresistors Circuits
 
 ![Potentiometers & Photoresistors](pp.jpeg)
@@ -19,24 +22,26 @@
 
 # Frequency Sweep
 
-![fs](https://user-images.githubusercontent.com/126359456/226070180-9dd40859-a438-4ed5-b01d-64993f7dc49c.mp4)
-
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/126359456/226070180-9dd40859-a438-4ed5-b01d-64993f7dc49c.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-https://user-images.githubusercontent.com/126359456/226070675-2a877769-b52d-4101-af54-5631585131a9.mp4
 
+<video src="https://user-images.githubusercontent.com/126359456/226070675-2a877769-b52d-4101-af54-5631585131a9.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 # Circuit Track
 
-https://user-images.githubusercontent.com/126359456/226070400-01f0ed60-f700-49e4-8630-7d07df9316c7.mp4
+<video src="https://user-images.githubusercontent.com/126359456/226070400-01f0ed60-f700-49e4-8630-7d07df9316c7.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ![looptimer](looptime.jpg)
 
 
 # Drag Race
 
-https://user-images.githubusercontent.com/126359456/226069871-134a0518-dd51-4152-b834-98166fad6d2d.mov
+
+<video src="https://user-images.githubusercontent.com/126359456/226069871-134a0518-dd51-4152-b834-98166fad6d2d.mov" controls="controls" style="max-width: 730px;">
+</video>
 
 
 # Team Photo
